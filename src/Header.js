@@ -28,7 +28,7 @@ function Header() {
           <HeaderOption Icon={BusinessCenterIcon} title='Jobs' />
           <HeaderOption Icon={ChatIcon} title='Messaging' />
           <HeaderOption Icon={NotificationsIcon} title='Notifications' />
-          <HeaderOption avatar="https://cdn-icons-png.flaticon.com/512/194/194938.png" title="me"/>
+          <HeaderOption avatar="https://64.media.tumblr.com/75916702b3551b0e0e0e63f25f15bd0c/tumblr_psfkeuSKzY1v3pieu_1280.jpg" title="me"/>
         </div>
     </div>
   )
