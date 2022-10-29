@@ -4,12 +4,12 @@ import { Avatar } from '@mui/material';
 
 const Sidebar = () => {
 
-    const recentItem = (topic) => {
-       return <div className="sidebar__recentItem">
+    const recentItem = (topic) => (
+        <div className="sidebar__recentItem">
             <span className="sidebar__hash">#</span>
             <p>{topic}</p>
         </div>
-    }
+    )
   return (
     <div className='sidebar'>
         <div className="sidebar__top">
